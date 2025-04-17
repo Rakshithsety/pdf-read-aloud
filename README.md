@@ -11,4 +11,4 @@ Listen to the content using pyttsx3 (offline TTS engine)
 Control the speech speed with a slider (range: 100–300 words per minute)
 
 
-It's a handy tool for visually impaired users, language learners, or anyone who prefers listening over reading
+It's a handy tool for anyone who prefers listening over reading and supports in english 
